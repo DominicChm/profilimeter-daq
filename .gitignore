@@ -1,0 +1,7 @@
+.idea
+.pio
+cmake-build-debug
+cmake-build-teensy35
+CMakeListsPrivate.txt
+CMakeLists.txt
+.idea
